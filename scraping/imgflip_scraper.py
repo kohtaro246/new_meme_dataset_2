@@ -113,7 +113,7 @@ def scrape_memes(source_list, n_captions):
                 time.sleep(1)
             if caption_counter > 150:
                 break
-        df.to_csv('scraped_memes_21_30.csv', index=False)
+        df.to_csv('scraped_memes_21_30_2.csv', index=False)
 
 
 
@@ -122,7 +122,7 @@ def scrape_memes(source_list, n_captions):
 if __name__ == "__main__":
     #source_list = ["https://imgflip.com/meme/Joseph-Ducreux"]
     
-    with open('source_list_21_30.txt') as f:
+    with open('source_list_21_30_2.txt') as f:
         contents = f.read()
     source_list = contents.split('\n')
     

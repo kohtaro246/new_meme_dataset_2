@@ -13,4 +13,4 @@ df = pd.concat([df, df3], ignore_index=True)
 df = pd.concat([df, df4], ignore_index=True)
 df = pd.concat([df, df5], ignore_index=True)
 
-print(df)
+df.to_csv('csv_files/scraped_memes.csv', index=False)

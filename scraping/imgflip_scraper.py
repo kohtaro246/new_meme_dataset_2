@@ -44,7 +44,7 @@ def scrape_memes(source_list, n_captions):
         #print(img_file_name)
         img = requests.get(img_url, stream=True)
         #print(img.status_code)
-        savefile = "/Users/kohtarotanaka/work/new_meme_dataset/scraping/memes/" + img_file_name
+        savefile = "/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/" + img_file_name
         with open(savefile,'wb') as out_file:
             shutil.copyfileobj(img.raw, out_file)
         del img 
@@ -110,10 +110,10 @@ def scrape_memes(source_list, n_captions):
                 row = pd.DataFrame(d.values(), index=d.keys()).T 
                 df = pd.concat([df, row])
                 caption_counter += 1
-                time.sleep(1)
-            if caption_counter > 150:
+                time.sleep(0.5)
+            if caption_counter > 300:
                 break
-        df.to_csv('scraped_memes_21_30_2.csv', index=False)
+        df.to_csv('scraped_memes.csv', index=False)
 
 
 
@@ -122,11 +122,11 @@ def scrape_memes(source_list, n_captions):
 if __name__ == "__main__":
     #source_list = ["https://imgflip.com/meme/Joseph-Ducreux"]
     
-    with open('source_list_21_30_2.txt') as f:
+    with open('source_list.txt') as f:
         contents = f.read()
     source_list = contents.split('\n')
     
     #source_list = list(set(source_list))
     print(len(source_list))
-    scrape_memes(source_list=source_list, n_captions=400)
+    scrape_memes(source_list=source_list, n_captions=2000)
 

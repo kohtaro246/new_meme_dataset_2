@@ -1,0 +1,360 @@
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Malicious-Advice-Mallard.jpg
+['Actual-Advice-Mallard.jpg', 'Leonardo-DiCaprio-throwing-Money.jpg', 'Hide-the-Pain-Harold.jpg', 'Baby-Insanity-Wolf.jpg', 'Tony-Stark-success.jpg']
+['Actual-Advice-Mallard.jpg', 'Leonardo-DiCaprio-throwing-Money.jpg', 'Hide-the-Pain-Harold.jpg', 'stupid-sheep.jpg', 'Kermit-sipping-tea.jpg']
+[0.9324608522099501, 0.8421783185252384, 0.8334659280228726, 0.8319530548150627, 0.8295033793273285]
+[0.010591258, 0.016103862, 0.01694469, 0.01710818, 0.017804496]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Wise-guys-laughing.jpg
+['Goodfellas-Laugh.jpg', 'Good-Fellas-Hilarious.jpg', 'Karate-Kyle.jpg', 'Creepy-Condescending-Wonka.jpg', 'What-Year-Is-It.jpg']
+['Goodfellas-Laugh.jpg', 'Good-Fellas-Hilarious.jpg', 'Karate-Kyle.jpg', 'Hide-Yo-Kids-Hide-Yo-Wife.jpg', 'Creepy-Condescending-Wonka.jpg']
+[0.9991941514208894, 0.9984398610749504, 0.751472894580687, 0.7492816652268969, 0.7419861377320754]
+[0.00079264474, 0.0011594023, 0.017122721, 0.018769158, 0.018870244]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Black-Panther---Get-this-man-a-shield.jpg
+['Sean-Bean-Lord-Of-The-Rings.jpg', 'Forever-Alone.jpg', 'George-Washington.jpg', 'Walk-Into-Mordor.jpg', 'I-am-the-Senate.jpg']
+['Sidious-Error.jpg', 'Leonardo-DiCaprio-Pointing.jpg', 'I-am-the-Senate.jpg', 'Liam-Neeson-Taken.jpg', 'Needs-More-Cowbell.jpg']
+[0.8018296556835298, 0.7953976209062952, 0.7928666403898887, 0.7918801785349414, 0.7895554743604851]
+[0.009700035, 0.010067781, 0.010328094, 0.010494131, 0.010817986]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Emperor-Palpatine.jpg
+['Sidious-Error.jpg', 'Barney-Stinson-Win.jpg', 'Oliver-Twist-Please-Sir.jpg', 'Please-sir-may-I-have-some-more.jpg', 'Mr-Mackey.jpg']
+['Barney-Stinson-Win.jpg', 'Sidious-Error.jpg', 'Leonardo-DiCaprio-Pointing.jpg', 'Samuel-Jackson-Glance.jpg', 'Please-sir-may-I-have-some-more.jpg']
+[0.9183156317567504, 0.868970677495862, 0.8664443019295662, 0.8621835946172928, 0.8573390034248775]
+[0.009118488, 0.009335584, 0.009907994, 0.009993297, 0.010732084]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/sweating-bullets.jpg
+['Robert-Downey-Jr-Annoyed.jpg', 'Sidious-Error.jpg', 'Matrix-Morpheus.jpg', 'Please-sir-may-I-have-some-more.jpg', 'Samuel-Jackson-Glance.jpg']
+['Samuel-Jackson-Glance.jpg', 'Sidious-Error.jpg', 'Matrix-Morpheus.jpg', 'Leonardo-DiCaprio-Pointing.jpg', 'Barney-Stinson-Win.jpg']
+[0.8443851313406511, 0.8423833352673947, 0.8287203338710639, 0.8119917775889854, 0.8060736584696597]
+[0.01001501, 0.010030081, 0.010074036, 0.0104736155, 0.010492814]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Overly-Manly-Man.jpg
+['Sad-Cat.jpg', 'Skeptical-Baby.jpg', 'Baby-Insanity-Wolf.jpg', 'Leonardo-DiCaprio-throwing-Money.jpg', 'Darti-Boy.jpg']
+['Leonardo-DiCaprio-throwing-Money.jpg', 'Baby-Insanity-Wolf.jpg', 'Darti-Boy.jpg', 'Evil-Toddler.jpg', 'Skeptical-Baby.jpg']
+[0.9257878908980187, 0.9246395598980817, 0.9238333724757775, 0.9178527346725985, 0.9154801026072885]
+[0.013013728, 0.013559216, 0.013892067, 0.014032601, 0.014480926]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Grumpy-Cat.jpg
+['Grumpy-Cat-Happy.jpg', 'Awkward-Moment-Sealion.jpg', 'laughing-kid.jpg', 'Buddy-The-Elf.jpg', 'borat.jpg']
+['Grumpy-Cat-Happy.jpg', 'Awkward-Moment-Sealion.jpg', 'Afraid-To-Ask-Andy.jpg', 'Afraid-To-Ask-Andy-Closeup.jpg', 'borat.jpg']
+[0.9965096150264642, 0.8565287897527772, 0.8446425875690511, 0.8410671428664654, 0.8405282523609038]
+[0.0018054139, 0.015994668, 0.016568325, 0.016847346, 0.017499648]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Yeah-if-you-could.jpg
+['That-Would-Be-Great.jpg', 'Lumbergh.jpg', 'Giga-Chad.jpg', 'Futurama-Fry.jpg', 'Not-sure-if--fry.jpg']
+['That-Would-Be-Great.jpg', 'Lumbergh.jpg', 'Giga-Chad.jpg', 'Please-sir-may-I-have-some-more.jpg', 'Matrix-Morpheus.jpg']
+[0.995755786270791, 0.9478890193395441, 0.8841807029136252, 0.8553232356105158, 0.8543378155643299]
+[0.001809649, 0.009205916, 0.011685879, 0.013279979, 0.013292483]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Grandma-Finds-The-Internet.jpg
+['Old-lady-at-computer-finds-the-Internet.jpg', 'Hide-Yo-Kids-Hide-Yo-Wife.jpg', 'Waterboy-Kathy-Bates-Devil.jpg', 'Chubby-Bubbles-Girl.jpg', 'girl-running.jpg']
+['Old-lady-at-computer-finds-the-Internet.jpg', 'Waterboy-Kathy-Bates-Devil.jpg', 'WTF.jpg', 'Giga-Chad.jpg', 'Bad-Joke-Eel.jpg']
+[0.9981137014136653, 0.7902149655297169, 0.780576107284276, 0.7794984442907128, 0.7729281087749809]
+[0.0012766209, 0.014674989, 0.015237193, 0.015627054, 0.015747335]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Awkward-smiling-old-man.jpg
+['Unicorn-MAN.jpg', 'Sad-Cat.jpg', 'Family-Guy-Brian.jpg', 'Computer-Guy.jpg', 'Challenge-Accepted-Rage-Face.jpg']
+['Unicorn-MAN.jpg', 'Computer-Guy.jpg', 'Sad-Cat.jpg', 'Family-Guy-Brian.jpg', 'Challenge-Accepted-Rage-Face.jpg']
+[0.9486262999039626, 0.9409004559215591, 0.9318584147259328, 0.9309095806816864, 0.9306334657204474]
+[0.012919267, 0.013793628, 0.014491272, 0.015672373, 0.016014803]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Liam-Neeson-Taken.jpg
+['Michael-Jackson-Popcorn.jpg', 'Needs-More-Cowbell.jpg', 'I-am-the-Senate.jpg', 'Forever-Alone.jpg', 'hagrid-yer-a-wizard.jpg']
+['Michael-Jackson-Popcorn.jpg', 'Leonardo-DiCaprio-Pointing.jpg', 'hagrid-yer-a-wizard.jpg', 'Needs-More-Cowbell.jpg', 'I-am-the-Senate.jpg']
+[0.8673354553281616, 0.8616941724426598, 0.8615853413815961, 0.8390924938937242, 0.8349504394051159]
+[0.0069318353, 0.0070362003, 0.00765771, 0.007717596, 0.008248224]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Captain-Kirk-Khan.jpg
+['Star-Trek-Kirk-Khan.jpg', 'khan.jpg', 'Oh-No.jpg', 'You-keep-using-that-word.jpg', 'Inigo-Montoya.jpg']
+['Star-Trek-Kirk-Khan.jpg', 'khan.jpg', 'Oh-No.jpg', 'Weird-Stuff-I-Do-Potoo.jpg', 'And-the-points-dont-matter.jpg']
+[0.9995270449721394, 0.8198831938702337, 0.7826521040164586, 0.7674989794148885, 0.7666179424877678]
+[0.00052894995, 0.011698529, 0.013189636, 0.013364975, 0.014015677]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/10-Guy.jpg
+['stoned-guy.jpg', 'HighDrunk-guy.jpg', 'Hide-the-Pain-Harold.jpg', 'First-World-Problems-Cat.jpg', 'Ceiling-Cat.jpg']
+['stoned-guy.jpg', 'HighDrunk-guy.jpg', 'OMG-Karen.jpg', 'Karate-Kyle.jpg', 'Deep-Thoughts.jpg']
+[0.999895861274598, 0.976875817971837, 0.8379288814358814, 0.8371891354961468, 0.8280034609692325]
+[0.0002833348, 0.0051518236, 0.014933277, 0.015701914, 0.015741855]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/I-WANT-YOU.jpg
+['We-Want-you.jpg', 'Vein-forehead-guy.jpg', 'Chuck-Norris-Finger.jpg', 'Minor-Mistake-Marvin.jpg', 'Darti-Boy.jpg']
+['We-Want-you.jpg', 'Darti-Boy.jpg', 'Monkey-OOH.jpg', 'Penguin-Gang.jpg', 'Evil-Toddler.jpg']
+[0.9875163169709209, 0.7129499331617214, 0.7056005994599844, 0.7026833139246804, 0.702658351946071]
+[0.0034335442, 0.02452246, 0.025723713, 0.025896372, 0.026117831]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Oliver-Twist-Please-Sir.jpg
+['Please-sir-may-I-have-some-more.jpg', 'Giga-Chad.jpg', 'Robert-Downey-Jr-Annoyed.jpg', 'Matrix-Morpheus.jpg', 'You-cant-handle-the-truth.jpg']
+['Please-sir-may-I-have-some-more.jpg', 'Giga-Chad.jpg', 'Matrix-Morpheus.jpg', 'Robert-Downey-Jr-Annoyed.jpg', 'Sidious-Error.jpg']
+[0.9438589311885135, 0.9079452032302444, 0.8971703409232955, 0.8837040809260645, 0.8774185021631342]
+[0.00887371, 0.009869551, 0.010583527, 0.011885417, 0.0118922675]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Unicorn-MAN.jpg
+['Sad-Cat.jpg', 'Smiling-Jesus.jpg', 'Computer-Guy.jpg', 'Challenge-Accepted-Rage-Face.jpg', 'Family-Guy-Brian.jpg']
+['Computer-Guy.jpg', 'Sad-Cat.jpg', 'Smiling-Jesus.jpg', 'Cute-Cat.jpg', 'Fist-pump-baby.jpg']
+[0.9351205612591557, 0.9267466910041101, 0.9189292607788246, 0.9170485797513837, 0.9168472572844245]
+[0.014014009, 0.01431933, 0.014816129, 0.016392358, 0.01656253]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/startrek.jpg
+['Picard-Wtf.jpg', 'You-cant-handle-the-truth.jpg', 'Robert-Downey-Jr-Annoyed.jpg', 'Please-sir-may-I-have-some-more.jpg', 'Laughing-Leo.png']
+['Picard-Wtf.jpg', 'Please-sir-may-I-have-some-more.jpg', 'You-cant-handle-the-truth.jpg', 'Robert-Downey-Jr-Annoyed.jpg', 'charlie-chocolate-factory.jpg']
+[0.9991663430429721, 0.7833545906244171, 0.783088341951756, 0.782409214773871, 0.7779806795661909]
+[0.00072913343, 0.014632081, 0.015031327, 0.015662583, 0.015685808]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Futurama-Fry.jpg
+['Not-sure-if--fry.jpg', 'Why-you-no.jpg', 'Grumpy-Cat-Bed.jpg', 'Y-U-No.jpg', 'That-Would-Be-Great.jpg']
+['Not-sure-if--fry.jpg', 'Grumpy-Cat-Bed.jpg', 'You-cant-handle-the-truth.jpg', 'Karate-Kyle.jpg', 'Triggered-Liberal.jpg']
+[0.9970506628278133, 0.8642805818055813, 0.8604169492667099, 0.8522444127057599, 0.8483963131278379]
+[0.0018502994, 0.015971193, 0.016123906, 0.01619036, 0.016790153]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Crack-head.jpg
+['crack.jpg', 'Giga-Chad.jpg', 'Sidious-Error.jpg', 'Matrix-Morpheus.jpg', 'Please-sir-may-I-have-some-more.jpg']
+['crack.jpg', 'Giga-Chad.jpg', 'Matrix-Morpheus.jpg', 'Sidious-Error.jpg', 'Please-sir-may-I-have-some-more.jpg']
+[0.9680498897284568, 0.8042262932473476, 0.8038689777748415, 0.8007053130341871, 0.7884897326619177]
+[0.005376715, 0.012483754, 0.013432991, 0.013607376, 0.013918276]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Barney-Stinson-Win.jpg
+['Sidious-Error.jpg', 'Leonardo-DiCaprio-Pointing.jpg', 'Needs-More-Cowbell.jpg', 'Forever-Alone.jpg', 'Samuel-Jackson-Glance.jpg']
+['Leonardo-DiCaprio-Pointing.jpg', 'Sidious-Error.jpg', 'Samuel-Jackson-Glance.jpg', 'Needs-More-Cowbell.jpg', 'Michael-Jackson-Popcorn.jpg']
+[0.8639202348870038, 0.8629161461118606, 0.8245181189258579, 0.8153565146296203, 0.8035571635913118]
+[0.0080665555, 0.009186916, 0.009388276, 0.00948001, 0.009729916]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/So-Hot-Right-Now.jpg
+['Mugatu-So-Hot-Right-Now.jpg', 'Robert-Downey-Jr-Annoyed.jpg', 'Sidious-Error.jpg', 'Steve-Jobs.jpg', 'You-cant-handle-the-truth.jpg']
+['Mugatu-So-Hot-Right-Now.jpg', 'Please-sir-may-I-have-some-more.jpg', 'Giga-Chad.jpg', 'Robert-Downey-Jr-Annoyed.jpg', 'Samuel-Jackson-Glance.jpg']
+[0.9977101694558153, 0.75780681149091, 0.7441678949841259, 0.7425492422235135, 0.7424563162933816]
+[0.0014568003, 0.013639388, 0.013797562, 0.014185716, 0.01419917]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Baby-Insanity-Wolf.jpg
+['Sad-Cat.jpg', 'Darti-Boy.jpg', 'Skeptical-Baby.jpg', 'Evil-Toddler.jpg', 'Hide-the-Pain-Harold.jpg']
+['Sad-Cat.jpg', 'Evil-Toddler.jpg', 'Darti-Boy.jpg', 'Tony-Stark-success.jpg', 'Leonardo-DiCaprio-throwing-Money.jpg']
+[0.9358893080518782, 0.9184206307064281, 0.9177832060693345, 0.9171751122939295, 0.9171289650892577]
+[0.013236512, 0.013346556, 0.013571831, 0.014006709, 0.014103617]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Samuel-Jackson-Glance.jpg
+['Leonardo-DiCaprio-Pointing.jpg', 'Sidious-Error.jpg', 'Needs-More-Cowbell.jpg', 'Depressed-Cat.jpg', 'rod-serling-twilight-zone.jpg']
+['Leonardo-DiCaprio-Pointing.jpg', 'Michael-Jackson-Popcorn.jpg', 'Needs-More-Cowbell.jpg', 'Sidious-Error.jpg', 'hagrid-yer-a-wizard.jpg']
+[0.8181930915975126, 0.8133667284617504, 0.7866227684503473, 0.781255749432157, 0.7770269263246735]
+[0.008199976, 0.009904161, 0.010054622, 0.010082189, 0.010740315]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Aliens-Guy.jpg
+['Ancient-Aliens.jpg', 'girl-running.jpg', 'Robert-Downey-Jr-Annoyed.jpg', 'You-cant-handle-the-truth.jpg', 'Chubby-Bubbles-Girl.jpg']
+['Ancient-Aliens.jpg', 'Robert-Downey-Jr-Annoyed.jpg', 'Please-sir-may-I-have-some-more.jpg', 'Matrix-Morpheus.jpg', 'Evil-Plotting-Raccoon.jpg']
+[1.0, 0.814753332519543, 0.8130999153546531, 0.811339645446993, 0.8045997975977149]
+[0.0, 0.013329032, 0.013544601, 0.01396165, 0.01399421]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/stoned-guy.jpg
+['HighDrunk-guy.jpg', 'Hide-the-Pain-Harold.jpg', 'First-World-Problems-Cat.jpg', 'Ceiling-Cat.jpg', 'Leonardo-DiCaprio-throwing-Money.jpg']
+['HighDrunk-guy.jpg', 'OMG-Karen.jpg', 'Karate-Kyle.jpg', 'Deep-Thoughts.jpg', 'Hide-the-Pain-Harold.jpg']
+[0.9766406236371395, 0.837682883534899, 0.8369850103175361, 0.8277564356353436, 0.8257257463650715]
+[0.0051729367, 0.014941737, 0.01571123, 0.015751258, 0.015759908]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Lumbergh.jpg
+['That-Would-Be-Great.jpg', 'Awkward-Moment-Sealion.jpg', 'Grumpy-Cat-Bed.jpg', 'Leonardo-DiCaprio-throwing-Money.jpg', 'Hide-the-Pain-Harold.jpg']
+['That-Would-Be-Great.jpg', 'Awkward-Moment-Sealion.jpg', 'FLOODING-THUMBS-UP.jpg', 'Grumpy-Cat-Bed.jpg', 'Suprised-Patrick.jpg']
+[0.9418652681074403, 0.8601196766564593, 0.851962560391612, 0.8472360335784126, 0.8458044139155546]
+[0.009281169, 0.015581007, 0.01595783, 0.016126318, 0.01666624]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Goodfellas-Laugh.jpg
+['Good-Fellas-Hilarious.jpg', 'Karate-Kyle.jpg', 'Creepy-Condescending-Wonka.jpg', 'What-Year-Is-It.jpg', 'Captain-Picard-Facepalm.jpg']
+['Good-Fellas-Hilarious.jpg', 'Karate-Kyle.jpg', 'Hide-Yo-Kids-Hide-Yo-Wife.jpg', 'Creepy-Condescending-Wonka.jpg', 'Steve-Buscemi-Fellow-Kids.jpg']
+[0.9987420051711317, 0.7500878989231459, 0.748077180985637, 0.7405896158556279, 0.7391116493957738]
+[0.0010264961, 0.017240208, 0.01886675, 0.018967818, 0.019135347]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Leonardo-DiCaprio-Pointing.jpg
+['Forever-Alone.jpg', 'Sidious-Error.jpg', 'Needs-More-Cowbell.jpg', 'hagrid-yer-a-wizard.jpg', 'George-Washington.jpg']
+['hagrid-yer-a-wizard.jpg', 'Needs-More-Cowbell.jpg', 'Michael-Jackson-Popcorn.jpg', 'Sidious-Error.jpg', 'I-am-the-Senate.jpg']
+[0.8567874946522194, 0.8544210793480563, 0.8368960548226934, 0.8347415537905806, 0.8187202720753958]
+[0.007886031, 0.008078181, 0.008119828, 0.008575661, 0.008930272]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Philosoraptor.jpg
+['Dinosaur.jpg', 'Grumpy-Cat-Bed.jpg', 'god.jpg', 'stupid-sheep.jpg', 'Awkward-Moment-Sealion.jpg']
+['Dinosaur.jpg', 'god.jpg', 'Karate-Kyle.jpg', 'Grumpy-Cat-Bed.jpg', 'Giga-Chad.jpg']
+[0.9933535685056073, 0.8458178873714162, 0.8415864156898071, 0.8316862884254409, 0.8308826850045548]
+[0.002268418, 0.013628206, 0.014168936, 0.014441203, 0.014733237]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Archer.jpg
+['Do-you-want-ants-archer.jpg', 'Grumpy-Cat-Bed.jpg', 'Back-In-My-Day.jpg', 'stupid-sheep.jpg', 'borat.jpg']
+['Do-you-want-ants-archer.jpg', 'Grumpy-Cat-Bed.jpg', 'stupid-sheep.jpg', 'Not-sure-if--fry.jpg', 'Karate-Kyle.jpg']
+[0.992679406474542, 0.8234981245553018, 0.8178404833397059, 0.8167390433187487, 0.8146061074735668]
+[0.0027336732, 0.017423233, 0.01748609, 0.017904928, 0.018100912]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Dr-Evil-air-quotes.jpg
+['Dr-Evil-Quotes.jpg', 'Ceiling-Cat.jpg', 'Grumpy-Cat-Bed.jpg', 'Success-Kid.jpg', 'Triggered-Liberal.jpg']
+['Dr-Evil-Quotes.jpg', 'Karate-Kyle.jpg', 'Ceiling-Cat.jpg', 'Triggered-Liberal.jpg', 'RPG-Fan.jpg']
+[0.9999916583272862, 0.8455612785198358, 0.843852675370829, 0.8424052636368965, 0.8367418435964877]
+[8.604292e-05, 0.015309962, 0.015393682, 0.015849894, 0.015937211]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Black-guy-head-tap.jpg
+['Smart-black-guy.jpg', 'Smart-Guy.jpg', 'Karate-Kyle.jpg', 'Scary-Harry.jpg', 'Ceiling-Cat.jpg']
+['Smart-black-guy.jpg', 'Smart-Guy.jpg', 'Karate-Kyle.jpg', 'Giga-Chad.jpg', 'Scary-Harry.jpg']
+[0.8966077536691026, 0.8963939132697262, 0.8549841080365445, 0.854205334161423, 0.8521266309655232]
+[0.0101540005, 0.010161422, 0.01201735, 0.012334798, 0.012387398]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Y-U-No.jpg
+['Why-you-no.jpg', 'Not-sure-if--fry.jpg', 'Giga-Chad.jpg', 'That-Would-Be-Great.jpg', 'You-The-Real-MVP.jpg']
+['Why-you-no.jpg', 'Not-sure-if--fry.jpg', 'Surprised-Koala.jpg', 'BABY-CRYING.jpg', 'You-have-no-power-here.jpg']
+[0.9356904183274121, 0.8520689339910339, 0.8233188270089687, 0.8229815352184958, 0.8182140497626825]
+[0.012964313, 0.018811947, 0.0189927, 0.01906883, 0.019541059]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Charlie-Day.jpg
+['Pepe-Silvia.jpg', 'conspiracy-theory.jpg', 'Trying-to-explain.jpg', 'Ceiling-Cat.jpg', 'Grumpy-Cat-Bed.jpg']
+['Pepe-Silvia.jpg', 'conspiracy-theory.jpg', 'Trying-to-explain.jpg', 'Ceiling-Cat.jpg', 'Karate-Kyle.jpg']
+[0.9984472153924662, 0.9963885551748036, 0.9686482026634776, 0.8687823736200725, 0.857414868685039]
+[0.0013456782, 0.0018774001, 0.006569399, 0.013661721, 0.014881584]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Weird-Stuff-I-Do-Potoo.jpg
+['Inigo-Montoya.jpg', 'You-keep-using-that-word.jpg', 'Are-we-the-baddies.jpg', 'Michael-Jackson-Popcorn.jpg', 'Needs-More-Cowbell.jpg']
+['Inigo-Montoya.jpg', 'You-keep-using-that-word.jpg', 'Needs-More-Cowbell.jpg', 'Michael-Jackson-Popcorn.jpg', 'Are-we-the-baddies.jpg']
+[0.8304172557346509, 0.829505683678175, 0.81053989477439, 0.7976022258373255, 0.7872092749010343]
+[0.0101497825, 0.0101699475, 0.010216536, 0.01076661, 0.010819738]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Trying-to-explain.jpg
+['Pepe-Silvia.jpg', 'conspiracy-theory.jpg', 'Ceiling-Cat.jpg', 'Grumpy-Cat-Bed.jpg', 'Awkward-Moment-Sealion.jpg']
+['Pepe-Silvia.jpg', 'conspiracy-theory.jpg', 'Ceiling-Cat.jpg', 'Karate-Kyle.jpg', 'Scary-Harry.jpg']
+[0.96648156290876, 0.965383347313869, 0.8625366272451838, 0.8519876755725302, 0.8459749721566245]
+[0.0067370366, 0.0067879297, 0.014298937, 0.015125235, 0.01540139]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Hulk.jpg
+['Thats-my-secret.jpg', 'You-cant-handle-the-truth.jpg', 'Karate-Kyle.jpg', 'Please-sir-may-I-have-some-more.jpg', 'Robert-Downey-Jr-Annoyed.jpg']
+['Thats-my-secret.jpg', 'Captain-Picard-Facepalm.jpg', 'kermit-window.jpg', 'Karate-Kyle.jpg', 'Ceiling-Cat.jpg']
+[1.0, 0.8413150187849903, 0.8349788902542388, 0.8343315452637264, 0.8310487688950516]
+[0.0, 0.014878931, 0.015493712, 0.01591092, 0.016400544]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/girl-running.jpg
+['Chubby-Bubbles-Girl.jpg', 'Hide-Yo-Kids-Hide-Yo-Wife.jpg', 'You-cant-handle-the-truth.jpg', 'Please-sir-may-I-have-some-more.jpg', 'Unpopular-Opinion-Puffin.jpg']
+['Chubby-Bubbles-Girl.jpg', 'You-cant-handle-the-truth.jpg', 'Giga-Chad.jpg', 'Please-sir-may-I-have-some-more.jpg', 'Bad-Luck-Brian.jpg']
+[0.9518651434330363, 0.8566302194793787, 0.8533723630632686, 0.8266522111224717, 0.8248296819071762]
+[0.0083065, 0.014254146, 0.014629222, 0.014787492, 0.015169699]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Please-sir-may-I-have-some-more.jpg
+['Giga-Chad.jpg', 'Robert-Downey-Jr-Annoyed.jpg', 'Matrix-Morpheus.jpg', 'You-cant-handle-the-truth.jpg', 'Scary-Harry.jpg']
+['Giga-Chad.jpg', 'Matrix-Morpheus.jpg', 'Robert-Downey-Jr-Annoyed.jpg', 'Sidious-Error.jpg', 'You-cant-handle-the-truth.jpg']
+[0.9125368832750511, 0.8983816283406548, 0.8845486526078168, 0.8805103960659726, 0.8675095509766585]
+[0.008795676, 0.009572125, 0.010743398, 0.011077251, 0.011473559]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Smart-black-guy.jpg
+['Smart-Guy.jpg', 'Scary-Harry.jpg', 'Giga-Chad.jpg', 'Karate-Kyle.jpg', 'Ceiling-Cat.jpg']
+['Smart-Guy.jpg', 'Giga-Chad.jpg', 'Scary-Harry.jpg', 'Karate-Kyle.jpg', 'kermit-window.jpg']
+[0.9995966078676949, 0.8674843381297714, 0.8647579095321737, 0.852324437420983, 0.8480333236389477]
+[0.0005594829, 0.011590444, 0.011758819, 0.012256689, 0.013511968]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/society-if.jpg
+['The-future-world-if.jpg', 'Darti-Boy.jpg', 'Cat-newspaper.jpg', 'I-Should-Buy-A-Boat-Cat.jpg', 'Grumpy-Cat-Bed.jpg']
+['The-future-world-if.jpg', 'Darti-Boy.jpg', 'I-Should-Buy-A-Boat-Cat.jpg', 'Cat-newspaper.jpg', 'Grumpy-Cat-Bed.jpg']
+[1.0, 0.8478083065043801, 0.8463866394286222, 0.8463675423297273, 0.8451748049216848]
+[0.0, 0.018013246, 0.018329903, 0.018344639, 0.019098043]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Internet-Guide.jpg
+['computer-nerd.jpg', 'OMG-Karen.jpg', 'god.jpg', 'Evil-Cows.jpg', 'stupid-sheep.jpg']
+['computer-nerd.jpg', 'god.jpg', 'Karate-Kyle.jpg', 'OMG-Karen.jpg', 'Giga-Chad.jpg']
+[0.9722131669893693, 0.7898904437966244, 0.7852003170879093, 0.768104779268195, 0.7676094603762703]
+[0.00782103, 0.01682989, 0.017168883, 0.017171996, 0.017786995]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Family-Guy-Brian.jpg
+['Challenge-Accepted-Rage-Face.jpg', 'Ryan-Gosling.jpg', 'Internet-Explorer.jpg', 'Cute-Cat.jpg', 'Buddy-the-elf-excited.jpg']
+['Challenge-Accepted-Rage-Face.jpg', 'Ryan-Gosling.jpg', 'Internet-Explorer.jpg', 'Buddy-the-elf-excited.jpg', 'Derp.jpg']
+[0.9283135235014933, 0.8951738871466889, 0.8790545438256164, 0.8720051087418742, 0.8699617544514421]
+[0.012375824, 0.017872512, 0.018669166, 0.020284515, 0.02086676]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Needs-More-Cowbell.jpg
+['Forever-Alone.jpg', 'Michael-Jackson-Popcorn.jpg', 'hagrid-yer-a-wizard.jpg', 'You-keep-using-that-word.jpg', 'Inigo-Montoya.jpg']
+['Michael-Jackson-Popcorn.jpg', 'hagrid-yer-a-wizard.jpg', 'I-am-the-Senate.jpg', 'Are-we-the-baddies.jpg', 'Inigo-Montoya.jpg']
+[0.8681209710399181, 0.8675824752874103, 0.8330123298178131, 0.8220413694255515, 0.8211062004814509]
+[0.008059571, 0.008617458, 0.009179738, 0.009657201, 0.00971185]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Waiting-Skeleton.jpg
+['Skeleton-Computer.jpg', 'Awkward-Moment-Sealion.jpg', 'Grumpy-Cat-Bed.jpg', 'Buddy-The-Elf.jpg', 'Not-sure-if--fry.jpg']
+['Skeleton-Computer.jpg', 'Awkward-Moment-Sealion.jpg', 'Grumpy-Cat-Bed.jpg', 'Afraid-To-Ask-Andy-Closeup.jpg', 'Buddy-The-Elf.jpg']
+[0.999743071292197, 0.7883763022381798, 0.7828854456290033, 0.7803224199778215, 0.7801012137368583]
+[0.0005172528, 0.018115459, 0.019267816, 0.019367944, 0.01958328]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/And-Then-He-Said.jpg
+['Laughing-Men-In-Suits.jpg', 'Rich-men-laughing.jpg', 'Sidious-Error.jpg', 'Matrix-Morpheus.jpg', 'Laughing-Leo.png']
+['Laughing-Men-In-Suits.jpg', 'Rich-men-laughing.jpg', 'Matrix-Morpheus.jpg', 'Sidious-Error.jpg', 'Captain-Picard-Facepalm.jpg']
+[0.9822041698043561, 0.9818370090354686, 0.8025320897933345, 0.7670926709913702, 0.7623022328534924]
+[0.004377947, 0.0044621495, 0.015422058, 0.015697584, 0.016105957]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/I-am-the-Senate.jpg
+['George-Washington.jpg', 'Forever-Alone.jpg', 'Michael-Jackson-Popcorn.jpg', 'Sean-Bean-Lord-Of-The-Rings.jpg', 'hagrid-yer-a-wizard.jpg']
+['hagrid-yer-a-wizard.jpg', 'Sidious-Error.jpg', 'Michael-Jackson-Popcorn.jpg', 'Are-we-the-baddies.jpg', 'Inigo-Montoya.jpg']
+[0.8186618201421352, 0.8034733047469783, 0.7923732170484219, 0.7915405096185021, 0.782360336530318]
+[0.0094708055, 0.009862524, 0.0099729, 0.010858939, 0.011193029]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Michael-Jackson-Popcorn.jpg
+['michael-jackson-eating-popcorn.jpg', 'Forever-Alone.jpg', 'Are-we-the-baddies.jpg', 'hagrid-yer-a-wizard.jpg', 'Inigo-Montoya.jpg']
+['hagrid-yer-a-wizard.jpg', 'Are-we-the-baddies.jpg', 'michael-jackson-eating-popcorn.jpg', 'Sidious-Error.jpg', 'Inigo-Montoya.jpg']
+[0.8723038586133196, 0.8252170115201563, 0.8209336614172847, 0.8095773014525279, 0.8085812498706418]
+[0.009228601, 0.009460736, 0.010388175, 0.01085599, 0.010919764]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Matrix-Morpheus.jpg
+['Giga-Chad.jpg', 'Robert-Downey-Jr-Annoyed.jpg', 'Sidious-Error.jpg', 'You-cant-handle-the-truth.jpg', 'Scary-Harry.jpg']
+['Giga-Chad.jpg', 'Sidious-Error.jpg', 'Robert-Downey-Jr-Annoyed.jpg', 'Depressed-Cat.jpg', 'Liam-Neeson-Taken-2.jpg']
+[0.884359223502151, 0.8826128688121387, 0.8578047884493579, 0.8505199895197689, 0.8467935207646112]
+[0.009139788, 0.010251996, 0.010376023, 0.01119389, 0.01165634]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Pepe-Silvia.jpg
+['conspiracy-theory.jpg', 'Grumpy-Cat-Bed.jpg', 'Awkward-Moment-Sealion.jpg', 'crying-cat.jpg', 'stupid-sheep.jpg']
+['conspiracy-theory.jpg', 'Karate-Kyle.jpg', 'Scary-Harry.jpg', 'Grumpy-Cat-Bed.jpg', 'stupid-sheep.jpg']
+[0.9950971903034739, 0.8572200148238566, 0.8499729362844143, 0.8477142634097256, 0.847087973976891]
+[0.0022558165, 0.014858444, 0.015281436, 0.015390764, 0.015407664]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/FINALLY.png
+['Black-Scientist-Finally-Xium.jpg', 'Skeptical-Baby.jpg', 'Ryan-Gosling.jpg', 'Cute-Cat.jpg', 'Wake-Up-Babe.jpg']
+['Black-Scientist-Finally-Xium.jpg', 'Skeptical-Baby.jpg', 'Ryan-Gosling.jpg', 'Cute-Cat.jpg', 'Internet-Explorer.jpg']
+[0.9281732556941904, 0.8624723747618585, 0.8547498738239154, 0.8502617966502531, 0.8383524389188932]
+[0.011464338, 0.019127514, 0.020012358, 0.02085817, 0.021122819]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Inigo-Montoya.jpg
+['You-keep-using-that-word.jpg', 'Are-we-the-baddies.jpg', 'Forever-Alone.jpg', 'hagrid-yer-a-wizard.jpg', 'George-Washington.jpg']
+['You-keep-using-that-word.jpg', 'hagrid-yer-a-wizard.jpg', 'Are-we-the-baddies.jpg', 'Sidious-Error.jpg', 'George-Washington.jpg']
+[0.9989014627116499, 0.7930124528135245, 0.7909632838385017, 0.7790041274725764, 0.7678251806953794]
+[0.0008030038, 0.010777108, 0.011323743, 0.011554033, 0.012546551]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/You-cant-handle-the-truth.jpg
+['Robert-Downey-Jr-Annoyed.jpg', 'Giga-Chad.jpg', 'Sidious-Error.jpg', 'Shrek-Cat.jpg', '1990s-First-World-Problems.jpg']
+['Robert-Downey-Jr-Annoyed.jpg', 'Giga-Chad.jpg', 'kermit-window.jpg', 'Joseph-Ducreux.jpg', 'Sidious-Error.jpg']
+[0.8950648975549874, 0.852002509418501, 0.8294316698145409, 0.8268131115260614, 0.8266846504053212]
+[0.010861169, 0.0128973005, 0.013135043, 0.01363453, 0.013904754]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/You-keep-using-that-word.jpg
+['Are-we-the-baddies.jpg', 'Forever-Alone.jpg', 'hagrid-yer-a-wizard.jpg', 'George-Washington.jpg', 'Sean-Bean-Lord-Of-The-Rings.jpg']
+['hagrid-yer-a-wizard.jpg', 'Are-we-the-baddies.jpg', 'Sidious-Error.jpg', 'George-Washington.jpg', 'Sean-Bean-Lord-Of-The-Rings.jpg']
+[0.7923913788857219, 0.7917063361176427, 0.7786884706391151, 0.7686809656957604, 0.7508349910403762]
+[0.010808687, 0.011350293, 0.01153456, 0.012550057, 0.012629862]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Laughing-Men-In-Suits.jpg
+['Rich-men-laughing.jpg', 'Sidious-Error.jpg', 'Laughing-Leo.png', 'Liam-Neeson-Taken-2.jpg', '1990s-First-World-Problems.jpg']
+['Rich-men-laughing.jpg', 'Sidious-Error.jpg', 'Captain-Picard-Facepalm.jpg', 'Giga-Chad.jpg', 'Liam-Neeson-Taken-2.jpg']
+[0.9992499994703077, 0.8034380463652303, 0.763628053402918, 0.7584414127540849, 0.7528762774210369]
+[0.0007867044, 0.015445482, 0.01596873, 0.016261356, 0.016266564]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Licking-lips.png
+['Black-guy-hiding-behind-tree.png', 'Awkward-Moment-Sealion.jpg', 'Grumpy-Cat-Bed.jpg', 'Scumbag-Boss.jpg', 'Monkey-OOH.jpg']
+['Black-guy-hiding-behind-tree.png', 'Scumbag-Boss.jpg', 'Awkward-Moment-Sealion.jpg', 'Grumpy-Cat-Bed.jpg', 'Monkey-OOH.jpg']
+[0.9226777719288357, 0.8944097773948428, 0.8897425590830221, 0.8858923389678108, 0.8791393523781291]
+[0.013687852, 0.015047499, 0.015856547, 0.016637422, 0.017581478]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Walk-Into-Mordor.jpg
+['Sean-Bean-Lord-Of-The-Rings.jpg', 'George-Washington.jpg', 'Forever-Alone.jpg', 'Math-is-Math.jpg', 'Sidious-Error.jpg']
+['Sean-Bean-Lord-Of-The-Rings.jpg', 'Sidious-Error.jpg', 'Liam-Neeson-Taken-2.jpg', 'Math-is-Math.jpg', 'hagrid-yer-a-wizard.jpg']
+[0.9612499877659362, 0.7737632986588311, 0.7611979966877028, 0.7574753722445933, 0.7180717341870207]
+[0.0059828903, 0.014344064, 0.014589701, 0.014835206, 0.01526472]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Cat-newspaper.jpg
+['I-Should-Buy-A-Boat-Cat.jpg', 'Grumpy-Cat-Bed.jpg', 'The-future-world-if.jpg', 'stupid-sheep.jpg', 'Scumbag-Boss.jpg']
+['I-Should-Buy-A-Boat-Cat.jpg', 'Grumpy-Cat-Bed.jpg', 'The-future-world-if.jpg', 'stupid-sheep.jpg', 'Okay-Truck.jpg']
+[0.9996242101646647, 0.8556755024242794, 0.8480068005270308, 0.8406278914586265, 0.8293500586583681]
+[0.00060755305, 0.017848963, 0.018147416, 0.01847921, 0.018526843]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/hagrid-yer-a-wizard.jpg
+['Forever-Alone.jpg', 'George-Washington.jpg', 'Are-we-the-baddies.jpg', 'Sean-Bean-Lord-Of-The-Rings.jpg', 'Sidious-Error.jpg']
+['Sidious-Error.jpg', 'Are-we-the-baddies.jpg', 'Sean-Bean-Lord-Of-The-Rings.jpg', 'Liam-Neeson-Taken-2.jpg', 'George-Washington.jpg']
+[0.8035641206313113, 0.7852308909622773, 0.7624832907128501, 0.7368541136662031, 0.7283970753026958]
+[0.010339269, 0.010350661, 0.012427087, 0.012883441, 0.013241385]
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Sidious-Error.jpg
+['Liam-Neeson-Taken-2.jpg', 'Forever-Alone.jpg', 'Depressed-Cat.jpg', 'Laughing-Leo.png', 'Math-is-Math.jpg']
+['Liam-Neeson-Taken-2.jpg', 'Depressed-Cat.jpg', 'Forever-Alone.jpg', 'Math-is-Math.jpg', 'Karate-Kyle.jpg']
+[0.8420807819083577, 0.8337779852546782, 0.8182826544061258, 0.7929432622310834, 0.7781491929099027]
+[0.010732409, 0.011855782, 0.012341677, 0.013848939, 0.016005296]
+

@@ -1,0 +1,94 @@
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Wise-guys-laughing.jpg
+['Goodfellas-Laugh.jpg', 'Good-Fellas-Hilarious.jpg'] ok
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Emperor-Palpatine.jpg
+['Sidious-Error.jpg'] ok
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Yeah-if-you-could.jpg
+['That-Would-Be-Great.jpg', 'Lumbergh.jpg'] ok
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Grandma-Finds-The-Internet.jpg
+['Old-lady-at-computer-finds-the-Internet.jpg'] ok
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Captain-Kirk-Khan.jpg
+['Star-Trek-Kirk-Khan.jpg', 'khan.jpg'] ok 
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/10-Guy.jpg
+['stoned-guy.jpg', 'HighDrunk-guy.jpg'] ok
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/I-WANT-YOU.jpg
+['We-Want-you.jpg'] ok
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Oliver-Twist-Please-Sir.jpg
+['Please-sir-may-I-have-some-more.jpg'] ok
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/startrek.jpg
+['Picard-Wtf.jpg'] ok
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Futurama-Fry.jpg
+['Not-sure-if--fry.jpg'] ok
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Crack-head.jpg
+['crack.jpg'] ok
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/So-Hot-Right-Now.jpg
+['Mugatu-So-Hot-Right-Now.jpg'] ok
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Aliens-Guy.jpg
+['Ancient-Aliens.jpg'] ok
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Philosoraptor.jpg
+['Dinosaur.jpg'] ok
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Archer.jpg
+['Do-you-want-ants-archer.jpg'] ok
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Dr-Evil-air-quotes.jpg
+['Dr-Evil-Quotes.jpg'] ok
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Black-guy-head-tap.jpg
+['Smart-black-guy.jpg', 'Smart-Guy.jpg'] ok
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Y-U-No.jpg
+['Why-you-no.jpg'] ok
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Charlie-Day.jpg
+['Pepe-Silvia.jpg', 'conspiracy-theory.jpg', 'Trying-to-explain.jpg'] ok
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Hulk.jpg
+['Thats-my-secret.jpg'] ok
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/girl-running.jpg
+['Chubby-Bubbles-Girl.jpg'] ok
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/society-if.jpg
+['The-future-world-if.jpg'] ok
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Internet-Guide.jpg
+['computer-nerd.jpg'] ok
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Waiting-Skeleton.jpg
+['Skeleton-Computer.jpg'] ok
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/And-Then-He-Said.jpg
+['Laughing-Men-In-Suits.jpg', 'Rich-men-laughing.jpg'] ok
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Michael-Jackson-Popcorn.jpg
+['michael-jackson-eating-popcorn.jpg'] ok
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/FINALLY.png
+['Black-Scientist-Finally-Xium.jpg'] ok
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Inigo-Montoya.jpg
+['You-keep-using-that-word.jpg'] ok
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Licking-lips.png
+['Black-guy-hiding-behind-tree.png']
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Walk-Into-Mordor.jpg
+['Sean-Bean-Lord-Of-The-Rings.jpg']
+
+/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/Cat-newspaper.jpg
+['I-Should-Buy-A-Boat-Cat.jpg']
+
+

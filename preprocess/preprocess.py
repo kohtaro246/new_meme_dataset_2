@@ -46,6 +46,10 @@ def execute():
     print(f"final meme num: {len(df)}")
     print(f"final template image num {len(df['filename'].unique().tolist())}")
 
+    seq = [i for i in range(1, 24001)]
+    df['memeid'] = seq
+    df = df.reindex(columns=['memeid', 'url', 'filename', 'uppercaption', 'lowercaption', 'views', 'upvote'])
+    print(df)
     df.to_csv('preprocessed_dataset.csv', index=False)
 
 if __name__ == '__main__':

@@ -18,6 +18,14 @@ def execute():
     def _convert_to_str(s):
         return str(s)
 
+    def _convert_image_name(s):
+        if s == "Crying-cat.jpg":
+            return "Crying-cat-2.jpg"
+        elif s == "Waiting-skeleton.jpg":
+            return "Waiting-skeleton-2.jpg"
+        else:
+            return s
+
 
     image_directory = '/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/'
     df = pd.read_csv('/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/csv_files/edited_scraped_memes_new.csv')
@@ -46,6 +54,9 @@ def execute():
     print(f"final meme num: {len(df)}")
     print(f"final template image num {len(df['filename'].unique().tolist())}")
 
+    
+    df['filename'] = df['filename'].map(_convert_image_name)
+    df = df.sort_values(['filename', 'upvote'])
     seq = [i for i in range(1, 24001)]
     df['memeid'] = seq
     df = df.reindex(columns=['memeid', 'url', 'filename', 'uppercaption', 'lowercaption', 'views', 'upvote'])

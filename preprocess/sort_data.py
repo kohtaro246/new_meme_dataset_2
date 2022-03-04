@@ -26,6 +26,6 @@ def sort_df(df):
 
 
 if __name__ == '__main__':
-    df = pd.read_csv('preprocessed_dataset_2.csv')
+    df = pd.read_csv('preprocessed_dataset.csv')
     df = sort_df(df)
     print(df)

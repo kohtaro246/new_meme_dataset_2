@@ -2,7 +2,7 @@
 1. identicalなrowを除く
 encodingでフィルタをかけて、strに変換して、captionを小文字で統一
 2. テキストをフィルタする
-4. caption数を80以上あるものに限定する？
+4. caption数を80以上あるものは80に統一し、それ以外はそのまま入れる
 
 '''
 
@@ -10,44 +10,43 @@ import pandas as pd
 
 from encoding_wordcount_filter import encoding_wordcount_filter
 from word_profanity_filter import word_profanity_filter
+from caption_count import del_less_than_n
+from sort_data import sort_df
 
 
 def execute():
     def _convert_to_str(s):
         return str(s)
 
-    def del_less_than_n(df, n):
-        filename_list = df['filename'].unique().tolist()
-        for filename in filename_list:
-            meme_count = (df['filename'] == filename).sum()
-            if meme_count < n:
-                df = df[df['filename'] != filename]
-        return df
 
     image_directory = '/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/'
-    df = pd.read_csv('/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/csv_files/edited_scraped_memes.csv')
+    df = pd.read_csv('/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/csv_files/edited_scraped_memes_new.csv')
+    print(f"orig len: {len(df)}")
 
     df = df.drop_duplicates()
+    print(f"after drop len: {len(df)}")
 
-    df['uppercaption'] = df['uppercaption'].map(_convert_to_str)
-    df['lowercaption'] = df['lowercaption'].map(_convert_to_str)
+    #df['uppercaption'] = df['uppercaption'].map(_convert_to_str)
+    #df['lowercaption'] = df['lowercaption'].map(_convert_to_str)
 
     print("filter by encoding and wordcount")
     df = encoding_wordcount_filter(df)
     df = df[df['encoding_wordcount']]
+    print(f"after filter by encoding and wordcount: {len(df)}")
 
     print("filter by word_profanity")
     df = word_profanity_filter(df)
     df = df[df['word_profanity']]
+    print(f"after profanity filter: {len(df)}")
 
-    df = del_less_than_n(df, 80)
-    print(len(df))
-    print(len(df['filename'].unique().tolist()))
-
+    df = del_less_than_n(df, 11, 75)
     
 
-    
-    #df.to_csv('del_dataset.csv', index=False)
+    df = sort_df(df)
+    print(f"final meme num: {len(df)}")
+    print(f"final template image num {len(df['filename'].unique().tolist())}")
+
+    df.to_csv('preprocessed_dataset.csv', index=False)
 
 if __name__ == '__main__':
     execute()

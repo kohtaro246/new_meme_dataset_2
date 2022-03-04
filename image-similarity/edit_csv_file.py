@@ -1,6 +1,6 @@
 import pandas as pd 
 
-df = pd.read_csv('/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/csv_files/scraped_memes.csv')
+df = pd.read_csv('/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/csv_files/scraped_memes_new.csv')
 
 replace_dict = {
     "Goodfellas-Laugh.jpg" : "Wise-guys-laughing.jpg",
@@ -46,4 +46,4 @@ replace_dict = {
 
 df = df.replace({'filename' : replace_dict})
 
-df.to_csv('/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/csv_files/edited_scraped_memes.csv', index=False)
+df.to_csv('/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/csv_files/edited_scraped_memes_new.csv', index=False)

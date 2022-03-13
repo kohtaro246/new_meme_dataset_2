@@ -1,7 +1,7 @@
 import sys
 import pprint
-sys.path.append('/home/mil/k-tanaka/new_meme_dataset/preprocess/profanity_filter')
-
+#sys.path.append('/home/mil/k-tanaka/new_meme_dataset/preprocess/profanity_filter')
+sys.path.append('/Users/kohtarotanaka/work/new_meme_dataset_2/new_meme_dataset_2/preprocess/profanity_filter')
 from utils import (get_complete_path, read_wordList)
 import requests
 from PIL import Image, ImageFilter

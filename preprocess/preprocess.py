@@ -15,9 +15,6 @@ from sort_data import sort_df
 
 
 def execute():
-    def _convert_to_str(s):
-        return str(s)
-
     def _convert_image_name(s):
         if s == "Crying-cat.jpg":
             return "Crying-cat-2.jpg"
@@ -26,16 +23,18 @@ def execute():
         else:
             return s
 
-
-    image_directory = '/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/memes/'
-    df = pd.read_csv('/home/mil/k-tanaka/new_meme_dataset_2/new_meme_dataset_2/scraping/csv_files/edited_scraped_memes_new.csv')
+    df = pd.read_csv('/Users/kohtarotanaka/work/new_meme_dataset_2/new_meme_dataset_2/scraping/csv_files/edited_scraped_memes_new.csv')
     print(f"orig len: {len(df)}")
 
     df = df.drop_duplicates()
     print(f"after drop len: {len(df)}")
 
-    #df['uppercaption'] = df['uppercaption'].map(_convert_to_str)
-    #df['lowercaption'] = df['lowercaption'].map(_convert_to_str)
+    
+    print("add img url to dataset")
+    print(len(df))
+    img_url_df = pd.read_csv('/Users/kohtarotanaka/work/new_meme_dataset_2/new_meme_dataset_2/scraping/csv_files/scraped_imgurl.csv')
+    img_url_df = img_url_df.drop_duplicates(subset=['filename'])
+    df = pd.merge(df, img_url_df, how='inner', on='filename')
 
     print("filter by encoding and wordcount")
     df = encoding_wordcount_filter(df)
@@ -59,7 +58,7 @@ def execute():
     df = df.sort_values(['filename', 'upvote'])
     seq = [i for i in range(1, 24001)]
     df['memeid'] = seq
-    df = df.reindex(columns=['memeid', 'url', 'filename', 'uppercaption', 'lowercaption', 'views', 'upvote'])
+    df = df.reindex(columns=['memeid', 'url', 'filename', 'img_url', 'uppercaption', 'lowercaption', 'views', 'upvote'])
     print(df)
     df.to_csv('preprocessed_dataset.csv', index=False)
 

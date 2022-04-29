@@ -25,7 +25,7 @@ def filter_hits(df, worktime_threshold):
 
     # select approved
     df = df[df['AssignmentStatus'] == "Approved"]
-    # select hits taken more than 90 sec to complete
+    # select hits taken more than worktime_threshold sec to complete
     df = df[df['WorkTimeInSeconds'] > worktime_threshold]
     # if annotator selects the same meme for best and worst, remove the hit
     df_bool = ~((df['Answer.choice-q26-1'] == df['Answer.choice-q26-2']) | (df['Answer.choice-q27-1'] == df['Answer.choice-q27-2']) | (df['Answer.choice-q28-1'] == df['Answer.choice-q28-2']))
